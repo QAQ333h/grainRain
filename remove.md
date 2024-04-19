@@ -10,4 +10,6 @@
 作用：查看本地仓库的中央仓库列表
 
 4、git remote rm [key]
-作用：删除指定名称为key的中央仓库
+作用：删除指定名称为 key 的中央仓库
+
+5、git push [key] [branch] (-u 第一次添加需要加)
